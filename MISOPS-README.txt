@@ -1,4 +1,35 @@
 
+Briefing Text
+=============
+
+### Server Briefing
+
+```
+The political sphere is charged as ISIS/ISIL take over most of Syria.  
+
+Assad's Syrian Arab Armed Forces (SAAF) fight on multiple fronts with the Free 
+Syrian Army (FSA) to the south, the Kurdish-led Syrian Democratic Forces (SDF) 
+to the North, and ISIS/ISIL cells throughout Syria. ISIL has claimed from Idlib
+Governorate's South Eastern reaches and Aleppo through Raqqa and most of East
+Syria into Iraq.
+
+ISIL has just adbucted James Foley and other non-combatants. Take part in the
+operations to free these non-combatants and push ISIS/ISIL out of Syria as
+well as assist the SDF and FSA in victory over Assad's regime.
+
+Be ready for other states to take a more active part as combat shifts from
+a proxy war into a full push to remove ISIS/ISIL out of Syria. Be ready for
+Russian forces to assist the SAAF. Be aware of where the areas of operation
+are, as not all RedFOR and BlueFOR are the same. Avoid escalating into an all
+out war with Russia as forces work in close proximity.
+
+
+
+Realistic Syria -- FSA Foothold
+
+Copyright 2024 Zeathe "Boozer 1-1"
+```
+
 
 POLITICS
 ========
@@ -658,6 +689,10 @@ Online Resources
 
 Sounds
 ------
+
+### AI Generated Imagery
+
+https://deepai.org
 
 ### AI Generated Voices
 

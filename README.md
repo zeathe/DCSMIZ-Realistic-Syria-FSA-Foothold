@@ -67,3 +67,12 @@ random order.
 
 Mission notes and details during development are in the [MISOPS-README.txt](./MISOPS-README.txt)
 file.
+
+
+
+Support and Bug Reports
+=======================
+
+If a broken piece of the mission is found, or a feature is desired, review
+[SUPPORT.md](./SUPPORT.md) on how to get support for this mission.
+
