@@ -1,17 +1,5 @@
 
 
-Mission Requirements
-====================
-
-Simple Slot Blocker from [ciribob](https://github.com/ciribob/DCS-SimpleSlotBlock):
-`./SavedGames/{{ DCS Folder }}/Scripts/Hooks/SimpleSlotBlockGameGUI.lua`
-
-DML noGap and stopGap Server-Side Hooks:
-`./SavedGames/{{ DCS Folder }}/Scripts/Hooks/noGapGUI.lua`
-`./SavedGames/{{ DCS Folder }}/Scripts/Hooks/stopGapGUI.lua`
-
-
-
 POLITICS
 ========
 
@@ -73,8 +61,11 @@ MISSION OPERATIONS (MISOP)
 
 
 
+Primary Story Arc Missions
+==========================
+
 MISOP-001 - Akirshi Jailbreak Freedom
-=====================================
+-------------------------------------
 
 Operation: Akirshi Jailbreak Freedom
 
@@ -104,9 +95,61 @@ Elev:     <ele: MISOP-001-AO>
 
 
 
+MISOP-050 - FSA Southern Front Part 1
+-------------------------------------
+
+Operation: FSA Southern Front (Part 1)
+
+The Free Syrian Army is uprising against ISIL insurgents South and West of 
+Damascus. Provide support for the FSA troops in that area and assist in
+clearing out these villages.
+
+The Area of Operation is 
+MGRS:     <mgrs: MISOP-050-AO> 
+LONG/LAT: <lon: MISOP-050-AO> <lat: MISOP-050-AO>
+Elev:     <ele: MISOP-050-AO>
+
+
+MISOP-051 - FSA Southern Front Part 2
+-------------------------------------
+
+Operation: FSA Southern Front (Part 2)
+
+The Free Syrian Army is continuing North pushing ISIL out of the local
+villages.  Assist in the uprising against ISIL insurgents South and West 
+of Damascus. Provide support for the FSA troops in that area and assist in
+clearing out these villages.
+
+The Area of Operation is 
+MGRS:     <mgrs: MISOP-051-AO> 
+LONG/LAT: <lon: MISOP-051-AO> <lat: MISOP-051-AO>
+Elev:     <ele: MISOP-051-AO>
+
+
+MISOP-052 - FSA Southern Front Part 3
+-------------------------------------
+
+Operation: FSA Southern Front (Part 3)
+
+The Free Syrian Army is pushing ISIL out of the local villages.  West of
+Damascus.  Assist in the uprising against ISIL insurgents.  Provide support 
+for the FSA troops in that area and assist in clearing out these villages.
+
+Be aware of the Assad's Syrian Army forces in the area.  Attempt to only
+attack and engage ISIL insurgence and do not attack Syrian Army targets.
+
+The Area of Operation is 
+MGRS:     <mgrs: MISOP-052-AO> 
+LONG/LAT: <lon: MISOP-052-AO> <lat: MISOP-052-AO>
+Elev:     <ele: MISOP-052-AO>
+
+
+
+Random Destabilization Missions
+===============================
 
 MISOP-002a - Operation Timber Sycamore
-======================================
+--------------------------------------
 
 Operation: Timber Sycamore
 
@@ -125,7 +168,7 @@ Elev:     <ele: MISOP-002a-AO>
 
 
 MISOP-002b - Operation Timber Sycamore
-======================================
+--------------------------------------
 
 Operation: Timber Sycamore
 
@@ -143,7 +186,7 @@ Elev:     <ele: MISOP-002b-AO>
 
 
 MISOP-002c - Operation Timber Sycamore
-======================================
+--------------------------------------
 
 Operation: Timber Sycamore
 
@@ -163,7 +206,7 @@ Elev:     <ele: MISOP-002c-AO>
 
 
 MISOP-003 - Operation Ocean Anvil
-=================================
+---------------------------------
 
 Operation: Ocean Anvil
 
@@ -188,7 +231,7 @@ Elev:     <ele: MISOP-003-AO>
 
 
 MISOP-004 - Operation Ocean Lion
-================================
+--------------------------------
 
 Operation: Ocean Lion
 
@@ -205,7 +248,7 @@ Elev:     <ele: MISOP-004-AO>
 
 
 MISOP-005 - Operation Bronze Rhino
-==================================
+----------------------------------
 
 Operation: Bronze Rhino
 
@@ -247,8 +290,12 @@ Elev:     <ele: MISOP-005-AO-Bravo>
 
 
 
+Beachhead / FOB Missions
+========================
+
+
 MISOP-100 - Operation Black Eclipse
-===================================
+-----------------------------------
 
 Operation: Black Eclipse
 
@@ -272,7 +319,7 @@ Elev:     <ele: MISOP-100-AO>
 
 
 MISOP-101 - Operation Silver Garden
-===================================
+-----------------------------------
 
 Operation: Silver Garden
 
@@ -290,7 +337,7 @@ Elev:     <ele: MISOP-101-AO>
 
 
 MISOP-102 - Operation Crackpot
-==============================
+------------------------------
 
 Operation: Crackpot
 
@@ -309,7 +356,7 @@ Elev:     <ele: MISOP-102-AO>
 
 
 MISOP-103 - Operation Short Stick
-=================================
+---------------------------------
 
 Operation: Short Stick
 
@@ -349,7 +396,7 @@ Elev:     <ele: MISOP-103-H3SW-AO>
 
 
 MISOP-104 - Operation Pub Crawl
-===============================
+-------------------------------
 
 Operation: Pub Crawl
 
@@ -408,7 +455,7 @@ Elev:     <ele: MISOP-104-Kentucky-AO>
 
 
 MISOP-105 - Operation Enlightenment
-===================================
+-----------------------------------
 
 Operation: Enlightenment
 
@@ -425,7 +472,7 @@ Elev:     <ele: MISOP-105-AO>
 
 
 MISOP-106 - Operation Red Blade
-===============================
+-------------------------------
 
 Operation: Red Blade
 
@@ -439,7 +486,7 @@ Elev:     <ele: MISOP-106-AO>
 
 
 MISOP-107 - Operation Blue Hand
-===============================
+-------------------------------
 
 Operation: Blue Hand
 
@@ -464,8 +511,63 @@ Elev:     <ele: MISOP-107-AO>
 
 
 
-OP NAMES
-========
+TBD MISOPS In Planning
+======================
+
+
+FSA Southern Front
+------------------
+
+### MISOP - Quneitra Offensive
+
+Daraa and Quneitra
+
+### MISOP - Battle of Al-Shaykh Maskin
+
+### MISOP - Battle of Bosra
+
+### MISOP - Battle of Nasib Border Crossing
+
+
+
+Kurdish Forces Free Kobane of ISIL
+----------------------------------
+
+
+Northern Al-Nursa Front
+-----------------------
+
+ISIL insurgents Take over Idlib Province, Numerous Towns, Air Strips.
+
+Mountains South and SouthWest of Idlib
+
+### MISOP - Zawiya Mountain Region
+
+### MISOP - Towns around Idlib
+
+### MISOP - Taftanaz Air Strip
+
+### MISOP - Abu Al Duhur Air Strip
+
+
+
+Operation Euphrates Shield
+--------------------------
+
+### TBD
+
+
+
+
+ISIL Leadership Missions
+------------------------
+
+
+Operation Black Dragon - 
+
+
+Possible OP NAMES
+=================
 
 Operation Oak Tree
 Operation Back Yard
@@ -548,3 +650,37 @@ Operation Green Rain
 
 Operation Ocean Doom
 Operation Ocean Eclipse
+
+
+
+Online Resources
+================
+
+Sounds
+------
+
+### AI Generated Voices
+
+https://deepgram.com/ai-voice-generator
+
+### Free Sound Bites
+
+https://freesound.org/
+
+
+
+Syrian Conflict Timeline Information
+------------------------------------
+
+https://en.wikipedia.org/wiki/Syrian_civil_war
+https://en.wikipedia.org/wiki/Timeline_of_the_Syrian_civil_war
+https://en.wikipedia.org/wiki/Timeline_of_the_Syrian_civil_war_(2020)
+https://en.wikipedia.org/wiki/Timeline_of_the_Syrian_civil_war_(2021)
+https://en.wikipedia.org/wiki/Timeline_of_the_Syrian_civil_war_(2022)
+https://en.wikipedia.org/wiki/Timeline_of_the_Syrian_civil_war_(2023)
+https://en.wikipedia.org/wiki/Timeline_of_the_Syrian_civil_war_(2024)
+
+https://www.usip.org/syria-timeline-uprising-against-assad
+
+https://syria.un.org/en
+https://news.un.org/en/focus/syria
