@@ -320,6 +320,26 @@ Elev:     <ele: MISOP-005-AO-Bravo>
 
 
 
+MISOP-006 - Operation Desert Mouse
+----------------------------------
+
+Operation: Desert Mouse
+
+An Insurgent convoy of supplies is traveling from Deir ez Zor to Raqqa.
+
+Intercept and destroy the convoy.
+
+Expected Convoy Departure Point
+MGRS:     <mgrs: MISOP-006-AO-Departure> 
+LONG/LAT: <lon: MISOP-006-AO-Departure> <lat: MISOP-006-AO-Departure>
+Elev:     <ele: MISOP-006-AO-Departure>
+
+Expected Convoy Arrival Point
+MGRS:     <mgrs: MISOP-006-AO-Destination> 
+LONG/LAT: <lon: MISOP-006-AO-Destination> <lat: MISOP-006-AO-Destination>
+Elev:     <ele: MISOP-006-AO-Destination>
+
+
 
 Beachhead / FOB Missions
 ========================
@@ -628,11 +648,17 @@ Operation Salamander
 
 Operation Desert Avalanche
 Operation Desert Jewel
-
+Operation Desert Dryad
+Operation Desert Dragon
+Operation Desert Angel
+Operation Desert Blase
+Operation Desert Citadel
 
 
 
 Operation Black Dragon
+
+
 
 Operation Brass Rhino
 Operation Blue Lion

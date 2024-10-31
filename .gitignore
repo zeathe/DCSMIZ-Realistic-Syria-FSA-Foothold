@@ -1,4 +1,6 @@
 # Blanket Miz Ignore
 **/*.miz
 
+# Ignore Mapping Resource Files stored elsewhere
+sounds/**
 
