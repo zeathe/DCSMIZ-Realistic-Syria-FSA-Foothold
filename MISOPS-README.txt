@@ -65,6 +65,821 @@ Lebanon: <v: STRENGTH-Lebanon> / 100
 United Nations Peace Keepers: <v: STRENGTH-UnitedNations> / 100 
 
 
+Real Timeline Events and Notes
+==============================
+
+Keys for date events
+
+    !!!!! = MISOP operation to play in-game
+    +++++ = Breaking News to Players Broadcast
+    !+!+! = MISOP combined with Breaking News
+    ----> = Specific change in mission generation (code/phase changes in the miz)
+    ***** = Reference to specific MISOP code in miz file
+    %%%%% = Scripted AI operation not player-based in-game
+    %+%+% = Scripted AI Operation not player-based in-game combined with Breaking News
+
+
+Chronological Order
+-------------------
+
+***** MISOP-001
+!!!!! July 2014 
+James Foley attempted rescue
+
++++++ 19 AUG 2014
+James Foley is killed by ISIS/ISIL
+
+%+%+% 2 AUG 2014
+ISIS/ISIL invades the Lebanese city of Arsal
+
+%%%%% 7 AUG 2014
+ISIS/ISIL Repelled from Arsal
+
++++++ 24 AUG 2014
+Taqba taken over by ISIS/ISIL
+
+
++++++ 26 AUG 2014
+Overt Surveillance Flights 
+
+
++++++ 2 SEP 2014
+Lebanese Army Sergeant Ali al-Sayyed is confirmed dead, beheaded by ISIS/ISIL after being captured during the skirmish in Arsal Lebanon.
+
++++++ 2 SEP 2014
+Israli-American journalist Steven Sotloff has been murdered by ISIS/ISIL.
+
+!!!!! 23 SEP 2014
+Air Strikes against 14 targets throughout Raqqa, Idlib Province, Deir ez Zor, and Western Aleppo.
+https://www.theguardian.com/world/2014/sep/23/us-launches-air-strikes-against-isis-targets-in-syria
+
+
+!!!!! 27 SEP 2014 - 8 OCT 2014
+US air strikes against ISIS/ISIL in Kobane/Kobani on the Syria/Turkey border
+
+!!!!! 22 OCT 2014
+Start of Air Dropped Supplies to Kurdish forces near Kobani
+
+!!!!! 26 JAN 2015
+Kobane/Kobani Liberated of ISIS/ISIL by US and Kurdish forces
+
+!!!!! 15 MAR 2015
+US Set up Training Camps for Oppositional Forces in Jordan, Qatar, and Suadi Arabia -- as well as Turkey
+
+!!!!! 9 MAY 2015
+Training Camp in Turkey started
+
+!!!!! 25 MAY 2015
+Training and arming completed in Turkey
+
+
+!!!!! 17 JUN 2015
+Tal Abyad on the Turkish border liberated of ISIS/ISIL by Kurdish forces
+
+!!!!! 22 JUN 2015
+Ain Issa Military Base liberated of ISIS/ISIL by Kurdish forces
+
+
+----> 30 SEPT 2015
+Russia airstrikes ISIS/ISIL, but actually attacks Western-backed Rebel groups
+(Homs Province Area)
+
+
+!!!!! 9 OCT 2015
+ISIS/ISIL gain six villages near Aleppo
+
+
+!!!!! 15 NOV 2015
+France ramps up air strikes against ISIS targets in Raqqa
+
+
+!!!!! nn NOV 2015
+Foley murderer 'Jihadi John' killed in Air Strike. Islamic State says Mohammed Emwazi killed.
+(Drone Strike into the car he was in in Raqqa)
+
+
+!!!!! 5 MAY 2016
+ISIS/ISIL capture Shaer Gas Field near Palmyra (Palmyra city control zones and shaer gas field zones in miz)
+
+
+!!!!! 24 MAY 2016
+Kurish and US forces attack northern Raqqa
+
+
+!!!!! 19 JUL 2016
+US-backed Rebels capture ISIS/ISIL base in Manbij
+
+
+!!!!! 7 AUG 2016
+Al Tanf Suicide Bomber -- Maybe repeat suicide bombers traveling to main targets as caravan targets
+
+
+!!!!! 12 AUG 2016
+US-backed forces take over Manbij from ISIS/ISIL
+
+
+!!!!! 24 AUG 2016 - Operation Euphrates Shield
+Capture of Jarabulus
+https://en.wikipedia.org/wiki/Operation_Euphrates_Shield
+
+!!!!! 30 AUG 2016
+ISIS says its spokesman and one of its longest-serving leaders, Abu Muhammad al Adnani, was killed in a U.S. airstrike while traveling in Syria near al Bab.
+
+
+!!!!! 3 SEP 2016 - Operation Euphrates Shield
+Al Rai
+https://en.wikipedia.org/wiki/Operation_Euphrates_Shield
+
+
+!!!!! 20 SEP 2016 - Operation Euphrates Shield
+Dabiq Offensive
+https://en.wikipedia.org/wiki/Operation_Euphrates_Shield
+
+
+!!!!! 16 OCT 2016
+Turkish-backed Syran rebels retake the town of Dabiq from ISIS/ISIL.
+
+
+!!!!! 18 OCT 2016 - Operation Euphrates Shield
+al-Bab
+https://en.wikipedia.org/wiki/Operation_Euphrates_Shield
+
+
+!!!!! 25 OCT 2016
+The Islamic State takes control of half of the western Iraqi town of Rutba, located near the Syrian and Jordanian borders.
+(This may be too far east to be modeled in the DCS Syria Map)
+
+
+!!!!! 11 DEC 2016
+ISIS fighters recapture Palmyra from Syrian government forces despite heavy Russian bombing to push them back.
+
+
++++++ 20 JAN 2017
+ISIS fighters destroy the Tetrapylon monument and the façade of its Roman theater in the city of Palmyra, according to the Syrian antiquities chief.
+
+
+!!!!! 2 FEB 2017
+ISIS fighters attack a military airport northeast of Damascus, killing at least 14 Syrian soldiers, according to the Syrian Observatory for Human Rights.
+
+
+!!!!! 6 FEB 2017
+Syrian government forces cut off the last supply route into al Bab and surround the Islamic State in the city.
+
+
+!!!!! 20 FEB 2017
+The Turkish military kills 44 ISIS fighters in operations around the Syrian town of al Bab.
+
+
+!!!!! 23 FEB 2017
+Turkish-backed forces kill 56 ISIS fighters around the Syrian town of al Bab with the help of U.S.-led coalition airstrikes.
+
+
+!!!!! 24 FEB 2017
+A car bomb kills more than 50 people in the village of Sousian, which is under control of the Free Syrian Army rebel forces. The Islamic State claims responsibility for the attack on social media.
+"Sousian is behind rebel lines about 8 km (5 miles) northwest of al-Bab"
+https://www.reuters.com/article/us-mideast-crisis-syria-islamic-state/islamic-state-car-bomb-kills-more-than-50-in-northwest-syria-idUSKBN1630PY/
+
+
+!!!!! 28 FEB 2017 - Operation Euphrates Shield
+Manbij (aka East Aleppo Offensive)
+https://en.wikipedia.org/wiki/Operation_Euphrates_Shield
+
+
+!!!!! 7 MAR 2017
+Syrian government forces and their allies capture the main water pumping station that supplies Aleppo from the Islamic State.
+
+
+!!!!! 26 MAR 2017
+U.S.-backed Syrian Democratic Forces retake a military air base in northern Syria from the Islamic State. (Tabqa Airstrip)
+
+
+!!!!! 2 APR 2017
+ISIS/ISIL Counter-attack against Tabqa fended off
+
+
+!!!!! 7 APR 2017
+US Strike on Shayrat Airbase
+https://en.wikipedia.org/wiki/2017_Shayrat_missile_strike
+
+
+!!!!! 11 APR 2017
+U.S.-backed Syrian Democratic Forces advance to within a mile of the Islamic State’s capital of Raqqa.
+
+
+!!!!! 21 APR 2017
+Abdurakhmon Uzbeki, an ISIS militant who was a close associate of caliph Abu Bakr al Baghdadi and was linked to the January night club attack in Turkey, is killed in a ground attack near Mayadin, Syria, according to the U.S. military. (suburb east of Deir ez Zor airstrip)
+
+
++++++ 22 APR 2017
+The Lebanese military says a local ISIS leader is killed and 10 other suspected militants are arrested in a raid on Arsal, a northeastern border town near Syria.
+
+
+!+!+! 27 APR 2017
+Mustafa Gunes, an Islamic State operative from Turkey, was killed in an air strike in Mayadin, Syria, on April 27
+
+!!!!! 2 MAY 2017
+ISIS militants attack Rajm al Salibi checkpoint and refugee camp in Syria near the border with Iraq, killing at least 38 people, according to the Syrian Observatory for Human Rights.
+https://www.aljazeera.com/news/2017/5/2/dozens-killed-in-isil-attack-on-northeast-syria
+(Not modeled in Syria DCS Map... Too far east)
+
+
+!+!+! 8 MAY 2017
+Muhammad Wanndy Mohamed Jedi, Malaysia’s most-wanted ISIS member and the suspected organizer of a grenade attack in a Kuala Lumpur bar in June 2016, is killed in Syria, Malaysia’s police chief says. (In Raqqa, via Drone Strike)
+
+
+!+!+! 11 MAY 2017
+Abu Asim al-Jazeri, an Islamic State planner from Algeria, was killed in Mayadin on May 11,
+
+
+!!!!! 13 MAY 2017
+Syrian government forces retake a small airbase in eastern Aleppo from the Islamic State. (Kuweires Air Strip in game)
+
+
+!+!+! 15 MAY 2017
+Two car bombs kill at least six people and injure several more near Rukban refugee camp along the Syria-Jordan border. The Islamic State claims responsibility for its attack via its Amaq News Agency.  (Near Al Tanf in-game)
+https://en.wikipedia.org/wiki/Rukban_refugee_camp
+
+
+!!!!! 18 MAY 2017
+Islamic State militants attack a village between Aleppo and Homs, killing at least 20 people.
+
+
+!!!!! 24 MAY 2017
+The Syrian army says it has killed the Islamic State’s Minister of War, Abu Musab al Masri. (East of Aleppo)
+
+
+!+!+! 31 MAY 2017
+A coalition airstrike in Syria kills Turki al Binali, Grand Mufti of the Islamic State. (Mayadin Syria)
+
+
+!!!!! 2 JUN 2017
+US Backed SDF Seize town west of Raqqa from ISIS/ISIL
+
+
+!!!!! 16 JUN 2017
+Russia says it may have killed ISIS caliph Abu Bakr al Baghdadi in an airstrike in Syria in May. Western and Iraqi officials are skeptical. (outskirts of Raqqa)
+
+
+!!!!! 25 JUN 2017
+U.S.-backed Syrian Democratic Forces retake the al Qadisia district in Raqqa from the Islamic State.
+
+
+!!!!! 29 JUN 2017
+U.S.-backed Syrian Democratic Forces close last route into the Islamic State’s capital of Raqqa and completely encircle the city.
+
+
+!!!!! 30 JUN 2017
+ISIS fighters withdraw from their last territory in Aleppo province after Syrian government forces retake the Ithriya-Rasafa road.
+
+
+----> nn JUL 2017
+CIA Operation Timber Sycamore is phased out
+
+
+!!!!! 3 JUL 2017
+U.S.-backed Syrian Democratic Forces breach Raqqa’s Old City.
+
+
+!!!!! 15 JUL 2017
+Syrian government forces seize Wahab, al Fahd, Dbaysan, al Qaseer, Abu al Qatat and Abu Qatash oil fields and several small villages from the Islamic State in the desert area southwest of Raqqa.
+
+
+!!!!! 28 JUL 2017
+ISIS fighters attack U.S.-backed  forces east of Raqqa. Some civilians and  fighters are killed and a number of people are abducted, according to the Syrian Observatory for Human Rights.
+
+
++++++ 4 AUG 2017
+Hezbollah leader Sayyed Hassan Nasrallah says the group will join the assault against the Islamic State’s territory along the Syria-Lebanon border.
+
+
+!!!!! 12 AUG 2017
+Syrian government forces and its allies seize the last major town in Homs province held by the Islamic State.
+
+
++++++ 18 AUG 2017
+The Lebanese army and Hezbollah announce a joint assault on Islamic State territory on the northeastern border with Syria. Hezbollah is targeting ISIS from the Syrian side, while the Lebanese army is targeting the caliphate from the Lebanese side of the border.
+
+
+!!!!! 24 AUG 2017
+Hezbollah seizes most of an Islamic State pocket on Syria’s side of the border with Lebanon. The Islamic State asks the Syrian Army and Hezbollah to let it withdraw to the eastern province of Deir Ezzor.
+
+
+!!!!! 26 AUG 2017
+Syrian government forces and its allies capture approximately 770 square miles of territory from the Islamic State in the central Syrian desert, a Hezbollah-run media outlet says.
+
+"Earlier this week, the army and its allies encircled the IS militants after advancing southward to join up with their forces near al-Sukhna town in Homs province. The enclave extends from the west of al-Sukhna into nearby Hama province."
+https://www.reuters.com/article/us-mideast-crisis-syria-homs/syrian-army-allies-advance-against-islamic-state-in-central-syria-idUSKCN1B60HY/
+
+
+!!!!! 5 SEP 2017
+Syrian armed forces and its allies break the Islamic State siege in Deir Ezzor, one of the caliphate’s last major strongholds in Syria.
+
+
++++++ 20 SEP 2017
+The U.S.-backed Syrian Democratic Forces say its Raqqa campaign is in its final stages.  forces have seized 80 percent of the Islamic State’s capital.
+
+
+!!!!! 23 SEP 2017
+U.S.-backed forces capture the Conoco gas field from the Islamic State in Syria’s Deir Ezzoz province. The gas field is the first liberated in the campaign to capture areas east of the Euphrates river from ISIS.
+
+
++++++ 25 SEP 2017
+U.S.-backed militias expect to dislodge ISIS from its capital Raqqa in less than a month, according to a Kurdish commander.
+
+
++++++ 29 SEP 2017
+The Islamic State releases a new audio message from Baghdadi. This is the first message from the caliph in 11 months. His death has been reported numerous times.
+
+
+!!!!! 1 OCT 2017
+Islamic State fighters capture a town in Homs province from Syrian government forces, according to the Syrian Observatory for Human Rights. (al-Qaryatayn)
+
+
+!!!!! 6 OCT 2017
+The Syrian military clears the Islamic State from its last pocket of territory in central Syria. (al-Salamiya)
+
+
+!!!!! 14 OCT 2017
+Syrian government and allied forces retake al Mayadeen from the Islamic State in eastern Syria. (in-game trigger zone: AlMayadinTownControlZone-1)
+
+
++++++ 17 OCT 2017
+U.S.-backed militias declare victory over the Islamic State in its capital Raqqa after a four-month campaign. But the U.S. military says that it could only confirm that 90 percent of Raqqa had been retaken from the group. Around 100 ISIS fighters still remain in Raqqa and the  are expected to face some resistance, according to Operation Inherent Resolve spokesman Colonel Ryan Dillon.
+
+
++++++ 20 OCT 2017
+U.S.-backed Syrian forces declare victory of the Islamic State in its former capital Raqqa after a four-month long campaign.
+
+
+!!!!! 22 OCT 2017
+U.S.-backed militias capture Syria’s largest oil field from the Islamic State in eastern Syria.  
+"al-Omar field on the eastern bank of the Euphrates"
+https://www.reuters.com/article/us-mideast-crisis-syria-oilfield/u-s-backed-militias-seize-key-oil-field-in-east-syria-sdf-idUSKBN1CR07E/
+
+
+!!!!! 23 OCT 2017
+Syrian Army Recaptures Homs Province town (al-Qaryatayn)
+"The Islamic State kills more than 60 civilians in a Syrian town in central Homs province before the Syrian army recaptures it. Over 100 others are missing, kidnapped or killed, according to the Homs province governor."
+https://www.reuters.com/article/us-mideast-crisis-syria-town/islamic-state-killed-more-than-60-dozens-missing-in-syrian-town-governor-idUSKBN1CS0VD/
+
+
+!!!!! 26 OCT 2017
+The Syrian army and its allies capture the “T2” pumping station in eastern Syria from the Islamic State. The oil pump is said to be a launch pad for the army to advances towards Abu Kamal, ISIS’s last stronghold in Syria, according to a Hezbollah-run media outlet.
+(~55nm due south of Deir ez Zor, not modeled in game)
+
+
++++++ 3 NOV 2017
+The Syrian government declares victory over the Islamic State in Deir Ezzor,the largest city in eastern Syria and the epicenter of the country’s oil production.
+
+
+!!!!! 8 NOV 2017
+Syria’s army and its allies capture Abu Kamal, the Islamic State’s last Syrian stronghold.
+(Not modeled in DCS Syria Map)
+
+
++++++ 9 NOV 2017
+Syria’s army declares victory of the Islamic State.
+
+
+!!!!! 10 NOV 2017
+The Islamic State reclaims half of the Syrian border town Abu Kamal, according to the Syrian Observatory for Human Rights. The Syrian army said it had captured Abu Kamal on Nov. 9.
+(Not modeled in DCS Syria Map)
+
+
++++++ 11 NOV 2017
+President Trump and Russian President Vladimir Putin issue a joint statement in which both countries agree to continue cooperative efforts against the Islamic State until it is defeated.
+
+
+!!!!! 12 NOV 2017
+Islamic State fighters regain control over Abu Kamal, their last stronghold in Syria, after ambushing Iranian-backed militias, tribal leaders and residents. Iranian-backed militias had captured the city on Nov. 8. 
+(Not modeled in DCS Syria Map)
+
+
++++++ 27 DEC 2017
+Less than 1,000 ISIS fighters remained in Iraq and Syria, according to the coalition. It is a third of the estimated figure from three weeks ago.
+
+
++++++ 22 JAN 2018
+U.S. government and foreign experts warn that the Islamic State still had as many as 10,000 loyalists in both Iraq and Syria. 
+
+
+!!!!! 23 JAN 2018
+A U.S.-led coalition airstrike targeting ISIS headquarters and a control center kills 150 fighters in Syria. 
+
+"As Shafah, located in the Middle Euphrates River Valley, an area where remnants of ISIS continue to operate."
+https://www.cnn.com/2018/01/23/politics/us-150-isis-fighters-killed-airstrike/index.html
+(Not modeled in DCS Syria Map)
+
+
+!!!!! 1 MAY 2018
+The U.S.-backed Syrian Democratic Forces (SDF) announces a new effort to reclaim the last ISIS held territory in Syria. “ISIS retains a significant presence near the Iraqi borders from which it seeks to retain safe haven to plan attacks around the world and expand its territory in Syria and Iraq,” an SDF statement said. “Over the coming weeks, our heroic forces will liberate these areas, secure the Iraq-Syria border, and end the presence of ISIS in eastern Syria once and for all.”
+(Not modeled in DCS Syria Map)
+
+
++++++ 9 MAY 2018
+A group of senior Islamic State officials who had been hiding in Turkey and Syria are captured in a cross-border U.S.-Iraqi sting. Four of the five arrested were Iraqi and one was Syrian. Their responsibilities included governing the Islamic State’s territory around Deir al Zour, Syria, directing internal security and running the administrative body that oversees religious rulings.
+(Not modeled in DCS Syria Map)
+
+
+!!!!! 25 July 2018
+ISIS attacks and seizes several towns in al Suwayda Province in southern Syria, killing more than 150 people. Syrian regime forces and local militias drive out the jihadists in a counterattack later that day. (Northeast of Busra)
+
+
++++++ 23 AUG 2018
+ ISIS releases an audio recording purportedly from Abu Bakr al Baghdadi. He downplays the importance of the group’s recent territorial losses, saying: “For the Mujahideen [holy warriors] the scale of victory or defeat is not dependent on a city or town being stolen.”
+
+
+!!!!! 24 OCT 2018
+ISIS launches an offensive to retake territory in eastern Syria, killing more than 40 SDF fighters and seizing ground along the Iraqi border. (Village of Sousa)
+https://web.archive.org/web/20190428125805/https://www.bloomberg.com/news/articles/2018-10-27/urgent-is-gunmen-kill-40-us-backed-fighters-in-eastern-syria
+"Friday's fighting that lasted until the early hours of Saturday began when IS, taking advantage of a sandstorm, launched a counteroffensive against SDF positions east of the Euphrates river in the eastern province of Deir el-Zour that borders Iraq, activists said"
+
+
+!!!!! 14 December 2018
+SDF forces capture Hajin, the last major town controlled by ISIS in eastern Syria. SDF Commander Mazloum Kobani estimates that 5,000 ISIS fighters remain in villages along the Euphrates River south of Hajin.
+(Not modeled in DCS Syria Map)
+
+
++++++ 19 December 2018
+President Trump signals his intent to withdraw the 2,000 U.S. forces from Syria. “We have defeated ISIS in Syria, my only reason for being there during the Trump presidency,” he tweeted.
+
+
+
++++++ 22 FEB 2019
+The United States announces that 400 U.S. troops will remain in Syria to prevent the resurgence of ISIS, reversing President Trump’s initial signal that all U.S. forces in the country would be withdrawn.
+
+
+!!!!! 23 MAR 2019
+SDF forces capture Baghouz, a village in Syria, ending the Islamic State’s claim to any territory. “We announce today the destruction of the so-called Islamic State organization and the end of its ground control in its last pocket in Baghouz,” declared SDF Commander Mazloum Kobani.
+(Not modeled in DCS Syria Map)
+
+
++++++ 21 APR 2019
+On Easter Sunday, suicide bombers kill at least 250 people in attacks on three churches and three luxury hotels in the Sri Lankan capital of Colombo and cities of Negombo and Batticaloa. At least 250 people are killed. ISIS claims responsibility.
+
+
++++++ 29 APR 2019
+ ISIS leader Baghdadi reemerges in an 18-minute video circulated on jihadi social media channels. He claims that the attacks in Sri Lanka were acts of revenge for the defeat in Baghouz, Syria. “Our battle today is a war of attrition to harm the enemy, and they should know that jihad will continue until doomsday,” he says in his first appearance since 2014. Baghdadi claims that ISIS affiliates had carried 92 attacks in eight countries while the group was losing territory in Syria.
+
+
++++++ 5 OCT 2019
+Turkish President Recep Tayyip Erdogan warns that is country is preparing to invade northern Syria. Two days later, the Trump administration announced that it would withdraw U.S. forces from the area and that Turkey would move forward with the operation. Hundreds of ISIS prisoners escape during the offensive.
+
+
+!!!!! 6 OCT 2019
+US Troops pull out of the Turkey/Syria border
+
+
+!!!!! 9 OCT 2019
+Turkish Operation: Peace Spring commences.  An idea to provide a 30km buffer zone between Syria and Turkey turns into war crimes
+as Turkey just bombs SDF and Civilians alike to push back former coalition allies against ISIS/ISIL as the SDF is listed as a
+terrorist group against Turkey with ties to the PKK.
+https://en.wikipedia.org/wiki/2019_Turkish_offensive_into_north-eastern_Syria
+
+
+!!!!! 26 OCT 2019
+Baghdadi dies during a U.S. special operations raid in Idlib, Syria.
+
+
+Location Grouped
+----------------
+
+### Ain Issa (Not on DCS Map)
+
+!!!!! 22 JUN 2015
+Ain Issa Military Base liberated of ISIS/ISIL by Kurdish forces
+
+### Al Bab
+
+!!!!! 30 AUG 2016
+ISIS says its spokesman and one of its longest-serving leaders, Abu Muhammad al Adnani, was killed in a U.S. airstrike while traveling in Syria near al Bab.
+
+!!!!! 18 OCT 2016 - Operation Euphrates Shield
+al-Bab
+https://en.wikipedia.org/wiki/Operation_Euphrates_Shield
+
+!!!!! 6 FEB 2017
+Syrian government forces cut off the last supply route into al Bab and surround the Islamic State in the city.
+
+!!!!! 20 FEB 2017
+The Turkish military kills 44 ISIS fighters in operations around the Syrian town of al Bab.
+
+!!!!! 23 FEB 2017
+Turkish-backed forces kill 56 ISIS fighters around the Syrian town of al Bab with the help of U.S.-led coalition airstrikes.
+
+!!!!! 24 FEB 2017
+A car bomb kills more than 50 people in the village of Sousian, which is under control of the Free Syrian Army rebel forces. The Islamic State claims responsibility for the attack on social media.
+"Sousian is behind rebel lines about 8 km (5 miles) northwest of al-Bab"
+https://www.reuters.com/article/us-mideast-crisis-syria-islamic-state/islamic-state-car-bomb-kills-more-than-50-in-northwest-syria-idUSKBN1630PY/
+
+
+
+
+
+
+### Al Dumayr
+
+!!!!! 2 FEB 2017
+ISIS fighters attack a military airport northeast of Damascus, killing at least 14 Syrian soldiers, according to the Syrian Observatory for Human Rights.
+
+
+
+### Al Tanf
+
+!!!!! 7 AUG 2016
+Al Tanf Suicide Bomber -- Maybe repeat suicide bombers traveling to main targets as caravan targets
+
+!!!!! 15 MAY 2017
+Two car bombs kill at least six people and injure several more near Rukban refugee camp along the Syria-Jordan border. The Islamic State claims responsibility for its attack via its Amaq News Agency.  (Near Al Tanf in-game)
+https://en.wikipedia.org/wiki/Rukban_refugee_camp
+
+
+
+### Al Rai
+
+!!!!! 3 SEP 2016 - Operation Euphrates Shield
+Al Rai
+https://en.wikipedia.org/wiki/Operation_Euphrates_Shield
+
+
+
+### Aleppo
+
+!!!!! 9 OCT 2015
+ISIS/ISIL gain six villages near Aleppo
+
+!!!!! 7 MAR 2017
+Syrian government forces and their allies capture the main water pumping station that supplies Aleppo from the Islamic State.
+
+!!!!! 24 MAY 2017
+The Syrian army says it has killed the Islamic State’s Minister of War, Abu Musab al Masri. (East of Aleppo)
+
+!!!!! 30 JUN 2017
+ISIS fighters withdraw from their last territory in Aleppo province after Syrian government forces retake the Ithriya-Rasafa road.
+
+
+### as-Suwayda
+
+!!!!! 25 July 2018
+ISIS attacks and seizes several towns in al Suwayda Province in southern Syria, killing more than 150 people. Syrian regime forces and local militias drive out the jihadists in a counterattack later that day. (Northeast of Busra)
+
+
+
+### Arsal, Lebanon
+
+!!!!! 22 APR 2017
+The Lebanese military says a local ISIS leader is killed and 10 other suspected militants are arrested in a raid on Arsal, a northeastern border town near Syria.
+
+
+
+### Dabiq
+
+!!!!! 20 SEP 2016 - Operation Euphrates Shield
+Dabiq Offensive
+https://en.wikipedia.org/wiki/Operation_Euphrates_Shield
+
+!!!!! 16 OCT 2016
+Turkish-backed Syran rebels retake the town of Dabiq from ISIS/ISIL.
+
+
+### Deir ez Zor and Southern Euphrates
+
+!!!!! 21 APR 2017
+Abdurakhmon Uzbeki, an ISIS militant who was a close associate of caliph Abu Bakr al Baghdadi and was linked to the January night club attack in Turkey, is killed in a ground attack near Mayadin, Syria, according to the U.S. military. (suburb east of Deir ez Zor airstrip)
+
++++++ 27 APR 2017
+Mustafa Gunes, an Islamic State operative from Turkey, was killed in an air strike in Mayadin, Syria, on April 27
+
++++++ 11 MAY 2017
+Abu Asim al-Jazeri, an Islamic State planner from Algeria, was killed in Mayadin on May 11,
+
++++++ 31 MAY 2017
+A coalition airstrike in Syria kills Turki al Binali, Grand Mufti of the Islamic State. (Mayadin Syria)
+
+!!!!! 5 SEP 2017
+Syrian armed forces and its allies break the Islamic State siege in Deir Ezzor, one of the caliphate’s last major strongholds in Syria.
+
+!!!!! 23 SEP 2017
+U.S.-backed forces capture the Conoco gas field from the Islamic State in Syria’s Deir Ezzoz province. The gas field is the first liberated in the campaign to capture areas east of the Euphrates river from ISIS.
+
+!!!!! 14 OCT 2017
+Syrian government and allied forces retake al Mayadeen from the Islamic State in eastern Syria. (in-game trigger zone: AlMayadinTownControlZone-1)
+
+!!!!! 22 OCT 2017
+U.S.-backed militias capture Syria’s largest oil field from the Islamic State in eastern Syria.  
+"al-Omar field on the eastern bank of the Euphrates"
+https://www.reuters.com/article/us-mideast-crisis-syria-oilfield/u-s-backed-militias-seize-key-oil-field-in-east-syria-sdf-idUSKBN1CR07E/
+
+!!!!! 26 OCT 2017
+The Syrian army and its allies capture the “T2” pumping station in eastern Syria from the Islamic State. The oil pump is said to be a launch pad for the army to advances towards Abu Kamal, ISIS’s last stronghold in Syria, according to a Hezbollah-run media outlet.
+(~55nm due south of Deir ez Zor, not modeled in game)
+
+!!!!! 8 NOV 2017
+Syria’s army and its allies capture Abu Kamal, the Islamic State’s last Syrian stronghold.
+(Not modeled in DCS Syria Map)
+
+!!!!! 10 NOV 2017
+The Islamic State reclaims half of the Syrian border town Abu Kamal, according to the Syrian Observatory for Human Rights. The Syrian army said it had captured Abu Kamal on Nov. 9.
+(Not modeled in DCS Syria Map)
+
+!!!!! 12 NOV 2017
+Islamic State fighters regain control over Abu Kamal, their last stronghold in Syria, after ambushing Iranian-backed militias, tribal leaders and residents. Iranian-backed militias had captured the city on Nov. 8. 
+(Not modeled in DCS Syria Map)
+
+!!!!! 23 JAN 2018
+A U.S.-led coalition airstrike targeting ISIS headquarters and a control center kills 150 fighters in Syria. 
+
+"As Shafah, located in the Middle Euphrates River Valley, an area where remnants of ISIS continue to operate."
+https://www.cnn.com/2018/01/23/politics/us-150-isis-fighters-killed-airstrike/index.html
+(Not modeled in DCS Syria Map)
+
+!!!!! 24 OCT 2018
+ISIS launches an offensive to retake territory in eastern Syria, killing more than 40 SDF fighters and seizing ground along the Iraqi border. (Village of Sousa)
+https://web.archive.org/web/20190428125805/https://www.bloomberg.com/news/articles/2018-10-27/urgent-is-gunmen-kill-40-us-backed-fighters-in-eastern-syria
+"Friday's fighting that lasted until the early hours of Saturday began when IS, taking advantage of a sandstorm, launched a counteroffensive against SDF positions east of the Euphrates river in the eastern province of Deir el-Zour that borders Iraq, activists said"
+
+!!!!! 14 December 2018
+SDF forces capture Hajin, the last major town controlled by ISIS in eastern Syria. SDF Commander Mazloum Kobani estimates that 5,000 ISIS fighters remain in villages along the Euphrates River south of Hajin.
+(Not modeled in DCS Syria Map)
+
+!!!!! 23 MAR 2019
+SDF forces capture Baghouz, a village in Syria, ending the Islamic State’s claim to any territory. “We announce today the destruction of the so-called Islamic State organization and the end of its ground control in its last pocket in Baghouz,” declared SDF Commander Mazloum Kobani.
+(Not modeled in DCS Syria Map)
+
+
+
+### Homs Province
+
+----> 30 SEPT 2015
+Russia airstrikes ISIS/ISIL, but actually attacks Western-backed Rebel groups
+(Homs Province Area)
+
+!!!!! 18 MAY 2017
+Islamic State militants attack a village between Aleppo and Homs, killing at least 20 people.
+
+!!!!! 12 AUG 2017
+Syrian government forces and its allies seize the last major town in Homs province held by the Islamic State.
+
+!!!!! 24 AUG 2017
+Hezbollah seizes most of an Islamic State pocket on Syria’s side of the border with Lebanon. The Islamic State asks the Syrian Army and Hezbollah to let it withdraw to the eastern province of Deir Ezzor.
+
+!!!!! 26 AUG 2017
+Syrian government forces and its allies capture approximately 770 square miles of territory from the Islamic State in the central Syrian desert, a Hezbollah-run media outlet says.
+
+"Earlier this week, the army and its allies encircled the IS militants after advancing southward to join up with their forces near al-Sukhna town in Homs province. The enclave extends from the west of al-Sukhna into nearby Hama province."
+https://www.reuters.com/article/us-mideast-crisis-syria-homs/syrian-army-allies-advance-against-islamic-state-in-central-syria-idUSKCN1B60HY/
+
+!!!!! 1 OCT 2017
+Islamic State fighters capture a town in Homs province from Syrian government forces, according to the Syrian Observatory for Human Rights. (al-Qaryatayn)
+
+!!!!! 6 OCT 2017
+The Syrian military clears the Islamic State from its last pocket of territory in central Syria. (al-Salamiya)
+
+!!!!! 23 OCT 2017
+Syrian Army Recaptures Homs Province town (al-Qaryatayn)
+"The Islamic State kills more than 60 civilians in a Syrian town in central Homs province before the Syrian army recaptures it. Over 100 others are missing, kidnapped or killed, according to the Homs province governor."
+https://www.reuters.com/article/us-mideast-crisis-syria-town/islamic-state-killed-more-than-60-dozens-missing-in-syrian-town-governor-idUSKBN1CS0VD/
+
+
+
+### Idlib Province
+
+!!!!! 26 OCT 2019
+Baghdadi dies during a U.S. special operations raid in Idlib, Syria.
+
+
+
+### Jarabulus
+
+!!!!! 24 AUG 2016 - Operation Euphrates Shield
+Capture of Jarabulus
+https://en.wikipedia.org/wiki/Operation_Euphrates_Shield
+
+
+
+### Kobane/Kobani (Northern Turkey/Syria border east of Euphrates River)
+
+!!!!! 27 SEP 2014 - 8 OCT 2014
+US air strikes against ISIS/ISIL in Kobane/Kobani on the Syria/Turkey border
+
+!!!!! 26 JAN 2015
+Kobane/Kobani Liberated of ISIS/ISIL by US and Kurdish forces
+
+
+### Kuweires Air Strip
+
+!!!!! 13 MAY 2017
+Syrian government forces retake a small airbase in eastern Aleppo from the Islamic State. (Kuweires Air Strip in game)
+
+
+
+### Manbij
+
+!!!!! 19 JUL 2016
+US-backed Rebels capture ISIS/ISIL base in Manbij
+
+!!!!! 12 AUG 2016
+US-backed forces take over Manbij from ISIS/ISIL
+
+!!!!! 28 FEB 2017 - Operation Euphrates Shield
+Manbij (aka East Aleppo Offensive)
+https://en.wikipedia.org/wiki/Operation_Euphrates_Shield
+
+
+
+
+
+
+### Palmyra
+
+!!!!! 5 MAY 2016
+ISIS/ISIL capture Shaer Gas Field near Palmyra (Palmyra city control zones and shaer gas field zones in miz)
+
+!!!!! 11 DEC 2016
+ISIS fighters recapture Palmyra from Syrian government forces despite heavy Russian bombing to push them back.
+
+!!!!! 20 JAN 2017
+ISIS fighters destroy the Tetrapylon monument and the façade of its Roman theater in the city of Palmyra, according to the Syrian antiquities chief.
+
+
+
+
+
+### Raqqa
+
+***** MISOP-001
+!!!!! July 2014 
+James Foley attempted rescue
+
+!!!!! 19 AUG 2014
+James Foley is killed by ISIS/ISIL
+
+!!!!! 15 NOV 2015
+France ramps up air strikes against ISIS targets in Raqqa
+
+!!!!! 24 MAY 2016
+Kurish and US forces attack northern Raqqa
+
+!!!!! 11 APR 2017
+U.S.-backed Syrian Democratic Forces advance to within a mile of the Islamic State’s capital of Raqqa.
+
+!!!!! 8 MAY 2017
+Muhammad Wanndy Mohamed Jedi, Malaysia’s most-wanted ISIS member and the suspected organizer of a grenade attack in a Kuala Lumpur bar in June 2016, is killed in Syria, Malaysia’s police chief says. (In Raqqa, via Drone Strike)
+
+!!!!! 2 JUN 2017
+US Backed SDF Seize town west of Raqqa from ISIS/ISIL
+
+!!!!! 16 JUN 2017
+Russia says it may have killed ISIS caliph Abu Bakr al Baghdadi in an airstrike in Syria in May. Western and Iraqi officials are skeptical. (outskirts of Raqqa)
+
+!!!!! 25 JUN 2017
+U.S.-backed Syrian Democratic Forces retake the al Qadisia district in Raqqa from the Islamic State.
+
+!!!!! 29 JUN 2017
+U.S.-backed Syrian Democratic Forces close last route into the Islamic State’s capital of Raqqa and completely encircle the city.
+
+!!!!! 3 JUL 2017
+U.S.-backed Syrian Democratic Forces breach Raqqa’s Old City.
+
+!!!!! 15 JUL 2017
+Syrian government forces seize Wahab, al Fahd, Dbaysan, al Qaseer, Abu al Qatat and Abu Qatash oil fields and several small villages from the Islamic State in the desert area southwest of Raqqa.
+
+!!!!! 28 JUL 2017
+ISIS fighters attack U.S.-backed  forces east of Raqqa. Some civilians and  fighters are killed and a number of people are abducted, according to the Syrian Observatory for Human Rights.
+
+!!!!! nn NOV 2015
+Foley murderer 'Jihadi John' killed in Air Strike. Islamic State says Mohammed Emwazi killed.
+(Drone Strike into the car he was in in Raqqa)
+
+
+### Rutba
+
+!!!!! 25 OCT 2016
+The Islamic State takes control of half of the western Iraqi town of Rutba, located near the Syrian and Jordanian borders.
+(This may be too far east to be modeled in the DCS Syria Map)
+
+
+### Tabqa
+
+!!!!! 24 AUG 2014
+Taqba taken over by ISIS/ISIL
+
+!!!!! 26 MAR 2017
+U.S.-backed Syrian Democratic Forces retake a military air base in northern Syria from the Islamic State. (Tabqa Airstrip)
+
+!!!!! 2 APR 2017
+ISIS/ISIL Counter-attack against Tabqa fended off
+
+
+
+### Tal Abyad
+
+!!!!! 17 JUN 2015
+Tal Abyad on the Turkish border liberated of ISIS/ISIL by Kurdish forces
+
+
+
+
 
 MISSION OPERATIONS (MISOP)
 ==========================
@@ -126,6 +941,10 @@ Elev:     <ele: MISOP-001-AO>
 
 
 
+
+
+
+
 MISOP-050 - FSA Southern Front Part 1
 -------------------------------------
 
@@ -173,6 +992,27 @@ The Area of Operation is
 MGRS:     <mgrs: MISOP-052-AO> 
 LONG/LAT: <lon: MISOP-052-AO> <lat: MISOP-052-AO>
 Elev:     <ele: MISOP-052-AO>
+
+
+
+MISOP-NNN - Operation Euphrates Shield
+--------------------------------------
+
+24 AUG 2016 - 29 MAR 2017
+
+https://en.wikipedia.org/wiki/Operation_Euphrates_Shield
+
+
+
+MISOP-NNN - Operation Black Dragon
+----------------------------------
+
+27 OCT 2019
+
+https://www.defense.gov/News/News-Stories/Article/Article/1999751/us-forces-kill-isis-founder-leader-baghdadi-in-syria/
+https://www.bbc.com/news/world-us-canada-50200339
+
+
 
 
 
@@ -338,6 +1178,25 @@ Expected Convoy Arrival Point
 MGRS:     <mgrs: MISOP-006-AO-Destination> 
 LONG/LAT: <lon: MISOP-006-AO-Destination> <lat: MISOP-006-AO-Destination>
 Elev:     <ele: MISOP-006-AO-Destination>
+
+
+
+
+MISOP-007 - Operation White Axe (variation 1)
+---------------------------------------------
+
+Operation: White Axe
+
+This is a CAS Mission.
+
+Insurgents are coming over the Turkish border from Syria.  Proceed to the
+designated AO.  Once within 20 nm of the AO, reach out to the operators on
+site CODENAME: JACK KNIFE for fire support 9-lines.
+
+The Area of Operation is
+MGRS:     <mgrs: MISOP-007-AO> 
+LONG/LAT: <lon: MISOP-007-AO> <lat: MISOP-007-AO>
+Elev:     <ele: MISOP-007-AO>
 
 
 
@@ -651,12 +1510,10 @@ Operation Desert Jewel
 Operation Desert Dryad
 Operation Desert Dragon
 Operation Desert Angel
-Operation Desert Blase
+Operation Desert Blaze
 Operation Desert Citadel
 
 
-
-Operation Black Dragon
 
 
 
@@ -697,7 +1554,6 @@ Operation Razor Blade
 Operation Yellow Knife
 Operation Banshee Scream
 Operation Brass Anvil
-Operation White Axe
 
 Operation Gray Angel
 Operation Brown Angel
@@ -730,8 +1586,12 @@ https://freesound.org/
 
 
 
-Syrian Conflict Timeline Information
-------------------------------------
+Syrian Conflict Timeline and Other Information
+----------------------------------------------
+
+https://www.wilsoncenter.org/article/timeline-the-rise-spread-and-fall-the-islamic-state
+
+https://upload.wikimedia.org/wikipedia/commons/a/af/Syrian_civil_war_01_12_2015.png
 
 https://en.wikipedia.org/wiki/Syrian_civil_war
 https://en.wikipedia.org/wiki/Timeline_of_the_Syrian_civil_war
@@ -741,7 +1601,56 @@ https://en.wikipedia.org/wiki/Timeline_of_the_Syrian_civil_war_(2022)
 https://en.wikipedia.org/wiki/Timeline_of_the_Syrian_civil_war_(2023)
 https://en.wikipedia.org/wiki/Timeline_of_the_Syrian_civil_war_(2024)
 
+https://en.wikipedia.org/wiki/Al-Nusra_Front
+
+https://en.wikipedia.org/wiki/Operation_Euphrates_Shield
+
 https://www.usip.org/syria-timeline-uprising-against-assad
 
 https://syria.un.org/en
 https://news.un.org/en/focus/syria
+
+https://en.wikipedia.org/wiki/List_of_armed_factions_in_the_Syrian_Civil_War
+https://en.wikipedia.org/wiki/Collaboration_with_the_Islamic_State
+
+https://en.wikipedia.org/wiki/Syrian_National_Army (aka FSA, TFSA)
+https://en.wikipedia.org/wiki/Syrian_Democratic_Forces
+https://en.wikipedia.org/wiki/Kurds_in_Syria
+
+https://en.wikipedia.org/wiki/Syrian_Armed_Forces  (SAAF / Assad)
+
+https://en.wikipedia.org/wiki/Russian_intervention_in_the_Syrian_civil_war
+
+https://carnegieendowment.org/research/2019/03/collision-avoidance-the-lessons-of-us-and-russian-operations-in-syria?lang=en&center=global
+
+
+
+Coding Snippets
+===============
+
+Car Bombing
+-----------
+
+Lua Function Basics: https://wiki.hoggitworld.com/view/DCS_func_explosion
+
+```
+function trigger.action.explosion(table vec3 , number power )
+```
+
+
+### Implementation 1
+
+Blow up the unit itself by unit name:
+
+```
+trigger.action.explosion(Unit.getByName('unitsName'):getPosition().p, 100)
+```
+
+
+### Implementation 2
+
+Attach a zone to the unit and blow up the zone:
+
+```
+trigger.action.explosion(trigger.misc.getZone({{ Zone Name }}).point, 100)
+```

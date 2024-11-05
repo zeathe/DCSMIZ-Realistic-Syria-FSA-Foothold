@@ -2,7 +2,52 @@
 CHANGELOG - Realistic Syria FSA Foothold
 ========================================
 
-[v0.0.2b] - 2024-OCT-29
+[v0.0.3b] - 2024-NOV-01
+-----------------------
+
+### Added
+
+* Official MIZ file Release Point
+  * Release State: RealisticSyria-FSAFoothold2014-DMLv2.2.2b-xxx.miz (internal Dev versioning)
+* Added Breaking News Picture Trigger
+  * BreakingNewsBlue Picture To Blue Coalition
+  * BreakingNewsRed Picture to Red Coalition
+  * BreakingNewsAll Picture to ALL
+* Created Active Missions RadioMainMenu
+* Created REDFOR Client space for GameMaster (Password Protected)
+* Adding Player-Controllable missions start/abort radio menus
+* Added MISOP-007 White Axe (variation 1)
+
+### Changed
+
+* Updated MISOPS-README with Briefing text and updated details
+* Updated MISOP-105 At Tanf defection and related Radio Options
+* Removed/Refactored onStartup spawns to reduce initial map unit counts
+* Updated per-mission related spawns
+* Un-hid civilian maritime traffic on Planner and MFD
+* Moved Active Missions Radio under "Active Missions" header
+* Disabled OnStart missions triggers in lieu of player-controlled menus
+
+### Deprecated
+
+- No Notable Changes
+
+### Removed
+
+- No Notable Changes
+
+### Fixed
+
+* Release Date in CHANGELOG for v0.0.2b -> OCT 30
+* Added MISOP-006 Desert Mouse to destabilization mission rotation
+
+### Security
+
+- No Notable Changes
+
+
+
+[v0.0.2b] - 2024-OCT-30
 -----------------------
 
 ### Added
